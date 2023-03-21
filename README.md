@@ -1,5 +1,3 @@
-### Hi there 👋 this is in progress...
-
 <div id="header" align="center">
   <h1>
     Hi there
